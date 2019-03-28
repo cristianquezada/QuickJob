@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "400853168486",
+    "firebase_url": "https://fcmwithapp-b35d7.firebaseio.com",
+    "project_id": "fcmwithapp-b35d7",
+    "storage_bucket": "fcmwithapp-b35d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400853168486:android:29ed108027e7b040",
+        "android_client_info": {
+          "package_name": "com.example.sebapls.fcmwithapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400853168486-dmjc0d2qe3707ddtj6tug39dtmocjbk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0QSDnbhAQwzplsWa3LPAxd-6OgYAq1PE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400853168486:android:b6149fdd58f85562",
+        "android_client_info": {
+          "package_name": "com.example.sebapls.hiremeaplicacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400853168486-dmjc0d2qe3707ddtj6tug39dtmocjbk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0QSDnbhAQwzplsWa3LPAxd-6OgYAq1PE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

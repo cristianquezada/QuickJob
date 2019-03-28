@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Regiones">
+        <item>Región Metropolitana</item>
+        <item>XV Arica y Parinacota</item>
+        <item>I Tarapacá</item>
+        <item>II Antofagasta</item>
+        <item>III Atacama</item>
+        <item>IV Coquimbo</item>
+        <item>V Valparaíso</item>
+        <item>VI OHiggins</item>
+        <item>VII Maule</item>
+        <item>VIII Biobío</item>
+        <item>IX La Araucanía</item>
+        <item>XIV Los Ríos</item>
+        <item>X Los Lagos</item>
+        <item>XI Aysén</item>
+        <item>XII Magallanes y Antártica</item>
+    </string-array>
+
+</resources>

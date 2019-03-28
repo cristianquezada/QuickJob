@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HireMeAplicacion.iml" filepath="$PROJECT_DIR$/HireMeAplicacion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Alumno\Desktop\HireMeAplicacion\picasso\picasso.iml" filepath="C:\Users\Alumno\Desktop\HireMeAplicacion\picasso\picasso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/picasso-2.5.2/picasso-2.5.2.iml" filepath="$PROJECT_DIR$/picasso-2.5.2/picasso-2.5.2.iml" />
+      <module fileurl="file://C:\Users\Alumno\Desktop\HireMeAplicacion\picasso-pollexor\picasso-pollexor.iml" filepath="C:\Users\Alumno\Desktop\HireMeAplicacion\picasso-pollexor\picasso-pollexor.iml" />
+      <module fileurl="file://C:\Users\Alumno\Desktop\HireMeAplicacion\picasso-sample\picasso-sample.iml" filepath="C:\Users\Alumno\Desktop\HireMeAplicacion\picasso-sample\picasso-sample.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HireMeAplicacion</string>
+    <string name="title_activity_especialista">Especialista</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="FCM_PREF">com.example.sebapls.hiremeaplicacion.fcm_pref</string>
+    <string name="FCM_TOKEN">com.example.sebapls.hiremeaplicacion.fcm_token</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_detallelistado">activity_detallelistado</string>
+    <string name="title_activity_mainlistado">activity_mainlistado</string>
+</resources>
